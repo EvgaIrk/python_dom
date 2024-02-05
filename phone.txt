@@ -1,0 +1,5 @@
+1;Пирожков Артур ;+7958645215
+2;Чижиков Андрей;+789584425444
+3;Виноградова Любовь;+7850654212
+4;& "c:/Users/meget/Documents/Обучение/3_Знакомство с языком Python/pythonCourse/folder/Scripts/python.exe" "c:/Users/meget/Documents/Обучение/3_Знакомство с языком Python/pythonCourse/phonebook.py";& "c:/Users/meget/Documents/Обучение/3_Знакомство с языком Python/pythonCourse/folder/Scripts/python.exe" "c:/Users/meget/Documents/Обучение/3_Знакомство с языком Python/pythonCourse/phonebook.py"
+5;Романов Николай;+7964523154
